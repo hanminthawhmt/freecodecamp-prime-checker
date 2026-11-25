@@ -1,0 +1,13 @@
+{
+  "name": "prime-number-checker",
+  "version": "1.0.0",
+  "description": "Check whether a number is prime",
+  "keywords": [
+    "prime",
+    "math",
+    "number"
+  ],
+  "license": "MIT",
+  "author": "Developer",
+  "type": "commonjs"
+}
